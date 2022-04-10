@@ -60,3 +60,4 @@ const docFour: Resource<string[]> = {
 let arr = ['daniel', 25, true];
 arr[0] = false
 
+let tup: [string, number, boolean] = ['daniel', 100, true];
